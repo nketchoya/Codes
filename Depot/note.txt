@@ -1,0 +1,12 @@
+select sum(entress) from [Transaction] where productname = 'beaufort'
+
+select sum(sorties) from [Transaction] where productname = 'beaufort'
+
+select * from [Transaction]
+
+ 
+treeview
+
+import os
+
+os.startfile("C:/Users/TestFile.txt", "print")
